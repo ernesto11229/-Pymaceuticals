@@ -25,7 +25,14 @@ I would recommend using Capomulina medication to reduce tumor size vs. the rest 
 
 Built With:
 
-Jupyter Notebook imports:panda and numpy Python
+Jupyter Notebook imports:
+import matplotlib.pyplot as plt
+import pandas as pd
+import scipy.stats as st
+import numpy as np
+from sklearn import datasets
+from scipy.stats import linregress
+
 Authors:
 
 Ernesto Beltran
