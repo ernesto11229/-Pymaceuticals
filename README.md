@@ -4,8 +4,7 @@ This study is to prove Capomulina medication has better outcomes in reducing tum
 
 Getting Started:
 
-Use these url;https://github.com/ernesto11229/pandas-challenge/tree/master/HeroesOfPymoli and locate the HeroesOf.ipynb file and a summary of the findings in a docx file labled "Heroes of Pymoli Analysis.docx".
-Built With Jupyter Notebook imports:panda and numpy Python
+Use these url;https://github.com/ernesto11229/Pymaceuticals and locate the "02-Homework_05-Matplotlib_Instructions_Pymaceuticals_pymaceuticals_starterf.ipynb" file.Please read the summary below for the analysis of the trial study. 
 
 Summary: 
 
